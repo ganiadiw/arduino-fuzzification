@@ -16,6 +16,7 @@ In this project I use the NodeMCU esp32 microcontroller.
 
 #### How to use?
 > 1. Configure the database
-> 2. Configure the database connection in php file
+> 2. Configure the database connection in the php file
 > 3. Configure the local area network connection (IP Address and SSID) in arduino program
 > 4. Configure DHT11 pin connection to microcontroller
+> 5. Upload the microcontroller program to the microcontroller device
