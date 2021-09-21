@@ -1,7 +1,5 @@
 ## Arduino Temperature and Humidity Fuzzification
 
-![](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino)
-
 Fuzzy logic with microcontroller device to determine of watering time for plants based on temperature and humidity using the DHT11 sensor.
 
 The DHT11 sensor is a sensor module that function to sense temperature and humidity which has an analog voltage output that can be further processed using a microcontroller.
